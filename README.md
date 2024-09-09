@@ -1,2 +1,2 @@
 # Viklund
-Algorithmic trading bot
+We wish to make efforts in leveling the playing field between institutional & retail investors. This will take the form of developing an algorithmic trading bot that is based on some of the technical approaches they currently exercise, as well as using some discretional, fundamental analysis. More significantly, it will be incorperating the use of alternative data machine learning analysis that hedge funds & other institutional investors untilize. We will be entering the world of quantitative finance through the use of Algorithmic trading powered by Deep Learning with Alternative Data.
