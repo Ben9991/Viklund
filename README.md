@@ -1,0 +1,2 @@
+# Viklund
+Algorithmic trading bot
